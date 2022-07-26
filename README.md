@@ -1,5 +1,6 @@
 # INTEGRATIONS DJANGO WITH CELERY
     mkdir django_with_celery
+    cd django_with_celery
     django-admin startproject config .
 
 # Most commands for background tasks
